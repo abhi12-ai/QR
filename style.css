@@ -1,0 +1,45 @@
+body{
+  background-color: rgb(177, 209, 240);
+  display: flex;
+  justify-content: center;
+  align-self: center;
+  
+}
+.container{
+  position: absolute;
+  display: flex;
+  align-items: center;
+  padding: 20px;
+  background-color: white;
+  width: 260px;
+  top: 100px;
+  border-radius: 10px;
+ 
+}
+
+
+.imge{
+  background-color: white;
+  display: flex;
+   
+  width: 260px;
+  border-radius: 10px;
+ 
+}
+img{
+  width:260px;
+  height: 280px;
+  border-radius: 10px;
+  
+}
+.photo{
+  height: 431.44px;
+  text-align:center;
+}
+
+.info a {
+  font-size: 11px;
+  color: blue;
+ }
+
+
